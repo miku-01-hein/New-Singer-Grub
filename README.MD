@@ -4,7 +4,7 @@
   - Mygo!!!
   - Vocaloid
 
- 现新分支已有主题:
+ 现新仓库已有主题:
   - Mu-F1
   - Mu-F2
   - MUJICA-F1
