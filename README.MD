@@ -20,6 +20,18 @@ MUJICA-F1
 ![Preview](https://github.com/miku-01-hein/New-Singer-Grub/blob/main/MUJICA-F1/background.png)
 MUJICA-F2
 ![Preview](https://github.com/miku-01-hein/New-Singer-Grub/blob/main/MUJICA-F2/background.png)
+Mu-F1
+![Preview](https://github.com/miku-01-hein/New-Singer-Grub/blob/main/Mu-F1/background.png)
+Mu-F2
+![Preview](https://github.com/miku-01-hein/New-Singer-Grub/blob/main/Mu-F2/background.png)
+MYGO
+![Preview](https://github.com/miku-01-hein/New-Singer-Grub/blob/main/MYGO/background.png)
+Tianyi
+![Preview](https://github.com/miku-01-hein/New-Singer-Grub/blob/main/Tianyi/background.png)
+VOCALOID-MIKU
+![Preview](https://github.com/miku-01-hein/New-Singer-Grub/blob/main/VOCALOID-MIKU/background.png)
+Xiangzi
+![Preview](https://github.com/miku-01-hein/New-Singer-Grub/blob/main/Xiangzi/background.png)
 # 安装教程
  将你选择喜欢的目前已有的其中任意主题如 `$HOME/Public/Singer-GRUB/AVE-MUJICA/Theme/` 那么请在 `/usr/share/grub/themes` 下 `sudo mkdir -p` 这个命令参数创建 `AVE-MUJICA` 目录
  
