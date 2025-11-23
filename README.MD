@@ -15,6 +15,7 @@
 
 # 新加入的内容介绍
   - 额外给 `MUJICA` 新添加了一个新的主题, 额外添加了 `洛天依`、`丰川祥子`、`若叶睦`的主题, 并给若叶睦额外一个主题。
+
 MUJICA-F1
 ![Preview](https://github.com/miku-01-hein/New-Singer-Grub/blob/main/MUJICA-F1/background.png)
 MUJICA-F2
