@@ -15,7 +15,10 @@
 
 # 新加入的内容介绍
   - 额外给 `MUJICA` 新添加了一个新的主题, 额外添加了 `洛天依`、`丰川祥子`、`若叶睦`的主题, 并给若叶睦额外一个主题。
+MUJICA-F1
 ![Preview](https://github.com/miku-01-hein/New-Singer-Grub/blob/main/MUJICA-F1/background.png)
+MUJICA-F2
+![Preview](https://github.com/miku-01-hein/New-Singer-Grub/blob/main/MUJICA-F2/background.png)
 # 安装教程
  将你选择喜欢的目前已有的其中任意主题如 `$HOME/Public/Singer-GRUB/AVE-MUJICA/Theme/` 那么请在 `/usr/share/grub/themes` 下 `sudo mkdir -p` 这个命令参数创建 `AVE-MUJICA` 目录
  
